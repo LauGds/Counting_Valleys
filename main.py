@@ -18,6 +18,8 @@ import sys
 # Input (stdin)
 # 8
 # UDDDUDUU
+# Expected Output
+# 1
 
 def countingValleys(steps, path):
     # Write your code here
