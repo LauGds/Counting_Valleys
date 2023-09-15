@@ -15,6 +15,10 @@ import sys
 #  2. STRING path
 #
 
+# Input (stdin)
+# 8
+# UDDDUDUU
+
 def countingValleys(steps, path):
     # Write your code here
     valleys = 0
